@@ -1,8 +1,11 @@
 # PacMan Light Python version
+---
 
 ### Installing & launching
-$ pip install -r requirements.txt
-$ python game.py
+```shell
+pip install -r requirements.txt
+python game.py
+```
 
 ### Control
 WASD - for moving pacman.
